@@ -1,7 +1,8 @@
 
 def levitation_quiz
 	loop do 
-	  answer = 
+	  answer =gets.chomp
+	  break if == ""
 end
 
 
